@@ -1,0 +1,59 @@
+
+# Unit Tests
+------------
+
+Command line php documentation tool that generates beautiful php documentation
+from source code.
+
+phpdoc tool
+
+parsing source code
+
+dot file generation
+
+xml
+
+The Model
+---------
+	classes
+	methods
+
+	build object tree from source code
+	convert tree model into html/pdf
+
+The Sample Input
+----------------
+
+	Sample Simple PHP programs
+
+The Expected Output
+-------------------	
+
+	Sample Output HTML Files.
+
+
+break all work in small 1 hour tasks with simple defined algorithms
+-------------------------------------------------------------------
+
+	Master List of Algorithms
+	- M
+
+
+
+provide default dumb implementations of all algorithms with wishlist
+--------------------------------------------------------------------
+
+see who gets the most
+---------------------
+
+learn from each other's code
+----------------------------
+
+
+Documentation Generator
+
+
+
+
+
+
