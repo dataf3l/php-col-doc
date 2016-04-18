@@ -1,3 +1,3 @@
 #!/bin/bash
-markdown phpcol.md > phpcol.html
+markdown README.md > phpcol.html
 
