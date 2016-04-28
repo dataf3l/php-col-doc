@@ -1,0 +1,11 @@
+<?php
+function function1(){
+
+}
+
+    /** a fine comment */   
+function function2(){
+
+
+}   
+?>
