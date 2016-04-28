@@ -96,10 +96,9 @@ Sample Output HTML File:
 	
 	<html>
 	<head>
-	<style>
-	/* a large stylesheet here.*/
-	</style>
-	</head>
+        <link rel=stylesheet href=style.css />	
+    </head>
+
 		<body>
 			<h1>input.php</h1>
 			<ul>
