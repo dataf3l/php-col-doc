@@ -20,7 +20,7 @@ function file2functionlist($sourcecode){
             $comment_buffer .= preg_replace("/\*\//","",$line);
             $mode = MODE_NO_COMMENT;
         }    
-        if(preg_match_all('/function\s*(\w+)/',$line,$matches)){
+        if(preg_match_all('/^\s*(public)?\s*(static)*\s*function\s*(\w+)\s*\(/',$line,$matches)){
             #var_dump($matches);
             $output[] = array(
                 'name'=>$matches[1][0],
