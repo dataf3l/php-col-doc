@@ -1,3 +1,28 @@
 body {
-    background-color:red;
+    background-color:#aaa;
 }
+a{
+color:#fff000;
+}
+a:visited{
+color:#005;
+}
+h1{
+font-size:25px;
+text-transform:uppercase;
+}
+li{
+text-transform:capitalize;
+font-size:20px;
+}
+
+p{
+font-weight:500;
+font-family:helvetica,arial,sans-serif;
+font-style:italic;
+}
+h2{
+font-size:bold;
+text-transform:capitalize;
+}
+
